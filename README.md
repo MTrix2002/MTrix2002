@@ -37,7 +37,7 @@ Je suis actuellement en recherche d'une alternance dans le développement web/ap
 
 - :mailbox:Possibilité aussi de me rejoindre sur: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ossie-mouangassa-11470119a/)
 
-- :incoming_envelope: Pour avoir plus d'informations, voici <a href="">mon cv</a>!
+- :incoming_envelope: Pour avoir plus d'informations, voici <a href="CV_2023-06-23_OSSIE_MOUANGASSA.pdf">mon cv</a>!
 
 ### :hammer_and_wrench: Langages de Programmation et outils:
 
