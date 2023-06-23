@@ -29,13 +29,15 @@ Je suis actuellement en recherche d'une alternance dans le développement web/ap
 - :spiral_notepad: Titulaire d'un Brevet Technicien Supérieur en Services informatiques aux organisations option B solutions logicielles et applications métiers:
   Option SLAM.
   
-- :airplane: J'ai vécu 10 ans en Angleterre, donc je suis très à l'aise avec la langue anglaise.
+- :globe_with_meridians: J'ai vécu 10 ans en Angleterre, donc je suis très à l'aise avec la langue anglaise.
 
 - :briefcase: Philiance Formation (mon établissement scolaire) propose un rythme de 3 semaines en entreprise, 1 semaine en formation.
   
 - :stuck_out_tongue_closed_eyes: Fan du gaming, le cinéma et les nouvelles technologies. J'ai un esprit créative, de polyvalence et de riguer.
 
 - :mailbox:Possibilité aussi de me rejoindre sur: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ossie-mouangassa-11470119a/)
+
+- :incoming_envelope: Pour avoir plus d'informations, voici <a href="">mon cv</a>!
 
 ### :hammer_and_wrench: Langages de Programmation et outils:
 
