@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  Bonjour à tous,
+  Hello dear viewer,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -19,7 +19,7 @@
 </div>
 
 ---
-
+# FR
 ### :man_technologist: À propos de moi :
 
 Je suis actuellement en recherche d'une alternance dans le développement web/application  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> en France avec un rythme d'alternance de 3 semaines entreprise/ 1 semaine en formation.
