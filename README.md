@@ -87,7 +87,7 @@ Je suis actuellement en recherche d'une alternance dans le développement web/ap
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
   
   </div>
-  ---
+  
 ### :fire: My Stats || Mes Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTrix2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
