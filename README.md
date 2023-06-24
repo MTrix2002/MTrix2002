@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-# En
+# EN
 ### :man_technologist: About me :
 
 I am currently looking for an internship in web and/or mobile apps development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in France with a schedule of 1 week in training and 3 weeks in the company.
