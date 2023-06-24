@@ -18,6 +18,40 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+# En
+### :man_technologist: About me :
+
+I am currently looking for an internship in web and/or mobile apps development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in France with a schedule of 1 week in training and 3 weeks in the company.
+
+- :cake: I am 20 years old.
+  
+- :spiral_notepad: I have a french diploma "Brevet Technicien Supérieur en Services informatiques aux organisations option B solutions logicielles et applications métiers : Option SLAM" which is the equivalent of an a level III diploma in computer science.
+  
+- :globe_with_meridians: Had the experience of living in England for 10 years, so I'm bilingual.
+
+- :briefcase: Philiance Formation (my school) offers a rhythm of 3 weeks in the company, 1 week in training.
+  
+- :stuck_out_tongue_closed_eyes: Fan of gaming,cinema et new technology. I have a creative spirit, versatility and rigor.
+
+- :mailbox:You can also contact me via: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ossie-mouangassa-11470119a/)
+
+- :incoming_envelope: For more information, here's<a href="CV_2023-06-23_OSSIE_MOUANGASSA.pdf"> my cv</a>!
+
+### :hammer_and_wrench: Languages and Tools:
+
+<div>
+ 
+  
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
+  
+  </div>
+
 ---
 # FR
 ### :man_technologist: À propos de moi :
@@ -53,7 +87,7 @@ Je suis actuellement en recherche d'une alternance dans le développement web/ap
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
   
   </div>
-### :fire: Mes Stats :
+### :fire: My Stats || Mes Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTrix2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
